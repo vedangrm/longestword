@@ -2,6 +2,7 @@ s= input ( 'Enter a String')
 
 l=s.split(" ")
 i=0
+
 for x in l:
    print(len(x))
 
